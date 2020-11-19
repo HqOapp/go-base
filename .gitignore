@@ -1,2 +1,7 @@
 bin
 secret.env
+vendor/
+.vscode/
+.idea/
+
+.DS_Store
